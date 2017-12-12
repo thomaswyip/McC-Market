@@ -1,2 +1,1 @@
-# MapTest
-GitHub Pages
+Beta of marketing platform for farmer markets
